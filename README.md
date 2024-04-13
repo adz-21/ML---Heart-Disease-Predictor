@@ -1,11 +1,14 @@
 # ML Model - Heart Disease Predictor
 
-Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of all deaths worldwide. Four out of 5 CVD deaths are due to heart attacks and strokes, and one-third of these deaths occur prematurely in people under 70 years of age. 
+Cardiovascular diseases (CVDs) are the number 1 cause of death globally - four out of 5 CVD deaths are due to heart attacks and strokes, and one-third of these deaths occur prematurely in people under 70 years of age. 
 
 
 People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management wherein a machine learning model can be of great help.
 
-Below are screenshots of the webapp created to deploy this ML model using Python and Flask.
+
+Utilizing Python and Flask, I've developed an intuitive web application to deploy this powerful predictive model. The application provides a user-friendly interface where users can input relevant health parameters and receive instant predictions regarding their risk of heart disease. Logistic regression, well-suited for binary classification tasks, serves as the backbone of this model.
+
+Below are screenshots of the webapp I've created to deploy this ML model using Python and Flask.
 
 
 
